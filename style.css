@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto';
+}
+.tracking {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+button {
+    display: inline-block;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    background: #f5a207;
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 14px 24px 16px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+}
